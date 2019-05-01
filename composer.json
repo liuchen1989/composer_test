@@ -1,6 +1,5 @@
 {
   "name": "liuchen/composer_test",
-  "version": "0.0.1",
   "authors": [
     {
       "name": "liuchen1989",
@@ -10,7 +9,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://www.baidu.com"
+      "url": "https://github.com/liuchen1989/composer_test"
     }
   ],
   "require": {
